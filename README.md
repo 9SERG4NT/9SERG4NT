@@ -47,13 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9SERG4NT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f111a" alt="Top Languages" />
 </div>
 
----
 
-### 🎯 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=9SERG4NT&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer" alt="Footer" />
